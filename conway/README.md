@@ -50,7 +50,7 @@ The colors are defined by RGB values and can also be modified directly in the sc
 If you want to contribute to this project, found any bugs or have new feature ideas, please open an issue!
 
 ## License
-This project is open-source, and it is available for unrestricted use, modification, and distribution. You are free to incorporate the code into your projects, both open-source and closed-source, without any attribution required.
+This project is licensed under the **GNU General Public License v3.0**, allowing you to freely use, modify, and distribute the code. Any derived works must also be licensed under GPL-3.0, promoting open-source collaboration and transparency. Please review the license terms before using or contributing to this project.
 
 ## Example images
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
