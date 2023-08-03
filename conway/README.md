@@ -46,12 +46,6 @@ The colors are defined by RGB values and can also be modified directly in the sc
 - `DEAD`: Color of cells that are dead (background).
 - `GRID`: Color of the grid for the cells.
 
-## Contributing
-If you want to contribute to this project, found any bugs or have new feature ideas, please open an issue!
-
-## License
-This project is licensed under the **GNU General Public License v3.0**, allowing you to freely use, modify, and distribute the code. Any derived works must also be licensed under GPL-3.0, promoting open-source collaboration and transparency. Please review the license terms before using or contributing to this project.
-
 ## Example images
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <img src="examples/example1.png" alt="Game window example #1" style="width: 33%;">
@@ -60,3 +54,9 @@ This project is licensed under the **GNU General Public License v3.0**, allowing
 </div>
 
 ***Figures 1-3:** The images show different time points after the start of the simulation. Two different random starting positions were used.*
+
+## Contributing
+If you want to contribute to this project, found any bugs or have new feature ideas, please open an issue!
+
+## License
+This project is licensed under the **GNU General Public License v3.0**, allowing you to freely use, modify, and distribute the code. Any derived works must also be licensed under GPL-3.0, promoting open-source collaboration and transparency. Please review the license terms before using or contributing to this project.
