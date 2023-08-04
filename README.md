@@ -1,5 +1,5 @@
 # Introduction to Programming course (ETHZ)
-The repository contains the files produced during the coding sessions and exercises of the "Introduction to Programming" course at ETH Zurich. This voluntary programming course offers an introduction to Bash scripting and version control using Git, as well as the programming languages C, MATLAB, R and Python.
+The repository contains the files produced during the coding sessions and exercises of the **Introduction to Programming** course at ETH Zurich. This voluntary programming course offers an introduction to Bash scripting and version control using Git, as well as the programming languages C, MATLAB, R and Python.
 
 The projects tackled in this course include a short analysis of the popular Titanic passenger data set and an analysis of bacterial single-nucleotide polymorphisms (SNPs), as well as an implementation of *Conway's Game of Life*.
 
