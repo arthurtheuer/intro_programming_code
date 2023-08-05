@@ -20,7 +20,7 @@ Directory contains the R file produced during the R coding session.
 Directory contains the notebook used during the Python coding session, as well as a short analysis of the popular Titanic data set and an analysis of bacterial single-nucleotide polymorphisms (SNPs).
 
 #### 5. &nbsp; `conway` &nbsp; Conway's Game of Life
-Directory contains my implementation of *Conway's Game of Life*, which is a cellular automaton that starts from a random distribution of living cells and then "lives" on without any user input.
+Directory contains my implementation of *Conway's Game of Life*, which is a cellular automaton that starts from a random distribution of living cells and then lives on without any user input.
 
 <div style="white-space: nowrap;">
   <img src="conway/examples/example1.png" alt="Game window example #1" style="width: 30%; display: inline-block;">
