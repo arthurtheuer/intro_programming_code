@@ -1,4 +1,4 @@
-# 5. &nbsp; `conway` &nbsp; Conway's Game of Life
+# 5. &nbsp; Conway's Game of Life
 This is my own implementation of *Conway's Game of Life*, which is a cellular automaton devised by the British mathematician John Horton Conway in 1970. The game starts with an infinite 2D grid of square cells, each in one of two states: live or dead. The starting pattern is the only input by the user. Each cell interacts with its eight adjacent neighbors (horizontal, vertical, and diagonal). In every time step, the following transitions occur:
 
 1. Any live cell with fewer than two live neighbours dies (underpopulation).
