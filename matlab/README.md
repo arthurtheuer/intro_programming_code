@@ -1,4 +1,4 @@
-# 2. &nbsp; `matlab` &nbsp; Introductory MATLAB programs
+# 2. &nbsp; Introductory MATLAB programs
 Contains the files produced during the MATLAB coding session of the Introduction to Programming course at ETH Zurich.
 
 ## File descriptions
