@@ -11,10 +11,10 @@ This is my own implementation of *Conway's Game of Life*, which is a cellular au
 The `conway.ipynb` notebook is only meant to explain the program and cannot be closed without crashing the kernel.
 
 ## File descriptions
-#### `conway.ipynb`
+#### <a href="conway.ipynb">`conway.ipynb`</a>
 Jupyter notebook explaining my implementation of *Conway's Game of Life*.
 
-#### `game_of_life.py`
+#### <a href="game_of_life.py">`game_of_life.py`</a>
 Python file to actually run the game.
 
 ## Dependencies
