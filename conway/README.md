@@ -55,12 +55,6 @@ The colors are defined by RGB values and can also be modified directly in the sc
 
 ***Figures 1-3:** The images show different time points after the start of the simulation. Two different random starting positions were used.*
 
-## Example video
-https://github.com/arthurtheuer/intro_programming_code/assets/114576959/8403f02e-8b39-48e6-ad5a-bdd02b6061da
-
-
-
-
 ## Contributing
 If you want to contribute to this project, found any bugs or have new feature ideas, please open an issue!
 
