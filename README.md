@@ -7,19 +7,19 @@ The projects tackled in this course include a short analysis of the popular Tita
 
 ## Projects overview
 
-#### 1. &nbsp; `c_code` &nbsp; Introductory C programs
+#### 1. &nbsp; <a href="c_code">`c_code`</a> &nbsp; Introductory C programs
 Directory contains the scripts produced during the C coding session and exercises.
 
-#### 2. &nbsp; `matlab` &nbsp; Introductory MATLAB programs
+#### 2. &nbsp; <a href="matlab">`matlab`</a> &nbsp; Introductory MATLAB programs
 Directory contains the files produced during the MATLAB coding session.
 
-#### 3. &nbsp; `r_code` &nbsp; Introductory R program
+#### 3. &nbsp; <a href="r_code">`r_code`</a> &nbsp; Introductory R program
 Directory contains the R file produced during the R coding session.
 
-#### 4. &nbsp; `python` &nbsp; Titanic and bacterial SNP data set analyses
+#### 4. &nbsp; <a href="python">`python`</a> &nbsp; Titanic and bacterial SNP data set analyses
 Directory contains the notebook used during the Python coding session, as well as a short analysis of the popular Titanic data set and an analysis of bacterial single-nucleotide polymorphisms (SNPs).
 
-#### 5. &nbsp; `conway` &nbsp; Conway's Game of Life
+#### 5. &nbsp; <a href="conway">`conway`</a> &nbsp; Conway's Game of Life
 Directory contains my implementation of *Conway's Game of Life*, which is a cellular automaton that starts from a random distribution of living cells and then lives on without any user input.
 
 <div style="white-space: nowrap;">
