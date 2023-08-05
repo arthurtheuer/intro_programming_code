@@ -1,4 +1,4 @@
-# 4. &nbsp; `python` &nbsp; Titanic and bacterial SNP data set analyses
+# 4. &nbsp; Titanic and bacterial SNP data set analyses
 This project encompasses a series of Jupyter notebooks showcasing data analysis and machine learning tasks using Python. The Jupyter notebooks cover diverse topics, including the analysis of the Titanic passenger data set with PCA and logistic regression for survival prediction, and analyzing single-nucleotide polymorphisms (SNPs) in bacterial mutants using linear modeling to predict growth rate.
 
 ## File descriptions
