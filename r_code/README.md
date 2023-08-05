@@ -2,7 +2,7 @@
 Contains the file produced during the R coding session of the Introduction to Programming course at ETH Zurich.
 
 ## File description
-#### `sandbox.R`
+#### <a href="sandbox.R">`sandbox.R`</a>
 R file testing some of the basic features of the R programming language.
 
 ## Dependencies
