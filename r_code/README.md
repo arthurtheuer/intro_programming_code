@@ -1,4 +1,4 @@
-# 3. &nbsp; `r_code` &nbsp; Introductory R program
+# 3. &nbsp; Introductory R program
 Contains the file produced during the R coding session of the Introduction to Programming course at ETH Zurich.
 
 ## File description
