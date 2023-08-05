@@ -2,13 +2,13 @@
 This project encompasses a series of Jupyter notebooks showcasing data analysis and machine learning tasks using Python. The Jupyter notebooks cover diverse topics, including the analysis of the Titanic passenger data set with PCA and logistic regression for survival prediction, and analyzing single-nucleotide polymorphisms (SNPs) in bacterial mutants using linear modeling to predict growth rate.
 
 ## File descriptions
-#### `sandbox.ipynb`
+#### <a href="sandbox.ipynb">`sandbox.ipynb`</a>
 Jupyter notebook with introductory Python code highlighting the differences to more low-level programming languages such as C.
 
-#### `titanic.ipynb`
+#### <a href="titanic.ipynb">`titanic.ipynb`</a>
 Jupyter notebook containing code to read the Titanic passenger training data set and analyze it, including a PCA and a logistic regression to predict survival of the passengers in the test data set.
 
-#### `mutants.ipynb`
+#### <a href="mutants.ipynb">`mutants.ipynb`</a>
 Jupyter notebook for the analysis of single-nucleotide polymorphisms (SNPs) of bacterial mutants, which includes reading HDF5 files, calculating mutation frequency and SNP significance and building a linear model to predict the phenotype (= growth rate) of the bacteria.
 
 ## Dependencies
