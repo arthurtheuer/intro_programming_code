@@ -1,4 +1,4 @@
-# 1. &nbsp; `c_code` &nbsp; Introductory C programs
+# 1. &nbsp; Introductory C programs
 Contains the files produced during the C coding session and the C coding exercises of the course. Any files should be self-contained and able to run after compilation (tested with GCC).
 
 ## File descriptions
